@@ -1,5 +1,5 @@
 html{
-    background-color: azure;
+    background-color: rgb(215, 255, 255);
 }
 
 body{
@@ -10,7 +10,35 @@ h1{
     margin: 0;
 }
 
+.branded-border{
+    border-bottom: 10px dotted white;
+    padding: 10px;
+    
+}
+
 .main-header{
     background-color: bisque;
+    padding: 30px;
+}
+
+.viburnums-header{
+    background-color: blueviolet;
+    color: white;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.nav-links{
+    color: white;
+}
+
+.viburnums-main{
+    background-color: cadetblue;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.viburnums-footer{
+    background-color: aquamarine;
     padding: 30px;
 }
