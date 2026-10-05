@@ -11,7 +11,7 @@ h1{
 }
 
 .branded-border{
-    border-bottom: 10px dotted white;
+    border-bottom: 10px dotted rgb(11, 10, 10);
     padding: 10px;
     
 }
@@ -22,7 +22,7 @@ h1{
 }
 
 .viburnums-header{
-    background-color: blueviolet;
+    background-color: #8a2be2;
     color: white;
     padding: 30px;
     margin-bottom: 20px;
@@ -41,4 +41,23 @@ h1{
 .viburnums-footer{
     background-color: aquamarine;
     padding: 30px;
+}
+
+.uwm-header{
+    background-color: #8a2be2;
+    color: white;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.uwm-main{
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.uwm-footer{
+    background-color: blue ;
+    color: white;
+    padding: 30px;
+    margin-bottom: 30px;
 }
